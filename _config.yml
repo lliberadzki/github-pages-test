@@ -28,6 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 # theme: minima
 theme: minima
+baseurl: /github-pages-test
 # remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
